@@ -40,7 +40,7 @@ p {
 /* Sections */
 
 .colored-section {
-  background-color: #ff4c68;
+  background-color: #D0A2F7;
   color: #fff;
 }
 
@@ -49,6 +49,10 @@ p {
 }
 
 /* Navigation Bar*/
+
+.img-logo {
+  width: 4rem;
+}
 
 .navbar-brand {
   font-family: 'Ubuntu', sans-serif;
@@ -65,8 +69,8 @@ p {
 }
 
 .nav-link {
-  font-family: 'Montserrat-Light', sans-serif;
-  font-size: 1.2rem;
+  font-family: 'Montserrat';
+  font-size: 1.5rem;
 }
 
 /* Buttons */
@@ -104,18 +108,18 @@ p {
 }
 
 .icon {
-  color: #ef8172;
+  color: #D0A2F7;
   margin-bottom: 1rem;
 }
 
 .icon:hover {
-  color: #ff4c68;
+  color: #7743DB;
 }
 
 /* Testimonial Section*/
 
 #testimonials {
-  background-color: #ef8172;
+  background-color: #D0A2F7;
 }
 
 .testimonial-text {
@@ -130,7 +134,7 @@ p {
 }
 
 #press {
-  background-color: #ef8172;
+  background-color: #D0A2F7;
   padding-bottom: 3%;
 }
 
